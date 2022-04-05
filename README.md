@@ -9,6 +9,8 @@ It is assumed that K8s clustmer is installed and added to Cloud One Container Se
 # containers
 Folder with data to prepair images to demo Smart Check
 
+
+
 # cicd
 Folder to show Smart Check integration with CI/CD (not implmemented yet)
 
